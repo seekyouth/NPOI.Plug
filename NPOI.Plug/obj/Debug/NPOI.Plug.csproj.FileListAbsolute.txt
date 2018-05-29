@@ -1,0 +1,17 @@
+E:\Demo\AutoMapperTest\NPOI.Plug\obj\Debug\NPOI.Plug.csproj.CoreCompileInputs.cache
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\NPOI.Plug.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\NPOI.Plug.pdb
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\CsharpHttpHelper.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\log4net.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\Newtonsoft.Json.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\NPOI.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\NPOI.OOXML.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\log4net.xml
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\Newtonsoft.Json.xml
+E:\Demo\AutoMapperTest\NPOI.Plug\bin\Debug\NPOI.xml
+E:\Demo\AutoMapperTest\NPOI.Plug\obj\Debug\NPOI.Plug.dll
+E:\Demo\AutoMapperTest\NPOI.Plug\obj\Debug\NPOI.Plug.pdb
+E:\Demo\AutoMapperTest\NPOI.Plug\obj\Debug\NPOI.Plug.csprojResolveAssemblyReference.cache
